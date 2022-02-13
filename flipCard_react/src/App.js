@@ -4,6 +4,7 @@ import FlipCard from "./components/Flip-Card";
 function App() {
   return (
    <div>
+     <h1>Kinder die Freude am Leben</h1>
     <div className="App">
       <FlipCard
         name="Lili"

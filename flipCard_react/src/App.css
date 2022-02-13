@@ -43,3 +43,7 @@ body{
  flex-wrap: wrap;
 background-color: #c5c9ca;
 }
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0e3075;
+}
